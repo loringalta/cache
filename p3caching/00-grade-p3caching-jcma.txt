@@ -1,0 +1,11 @@
+jcma p3caching grade: 58.3/60
+(graded work of partner fangning)
+* PartA: 27/27
+ Part A Comments: 
+* PartB: 24.3/26
+ Part B Comments: 
+* Style: 7/7
+ Style Comments: 
+
+Graded by Pratik Worah
+Questions and concerns to cs154-teach@mailman.cs.uchicago.edu
